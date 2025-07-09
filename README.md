@@ -55,15 +55,12 @@ If you want to learn more about building native executables, please consult <htt
 
 ## Related Guides
 
-- Hibernate ORM ([guide](https://quarkus.io/guides/hibernate-orm)): Define your persistent model with Hibernate ORM and Jakarta Persistence
-- Hibernate Validator ([guide](https://quarkus.io/guides/validation)): Validate object properties (field, getter) and method parameters for your beans (REST, CDI, Jakarta Persistence)
+- RESTEasy Classic ([guide](https://quarkus.io/guides/resteasy)): REST endpoint framework implementing Jakarta REST and more
 
 ## Provided Code
 
-### Hibernate ORM
+### RESTEasy JAX-RS
 
-Create your first JPA entity
+Easily start your RESTful Web Services
 
-[Related guide section...](https://quarkus.io/guides/hibernate-orm)
-
-
+[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
